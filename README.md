@@ -1,2 +1,1 @@
-# Coursera Project
-#Machine Learning With Python
+# Coursera Project: Machine Learning With Python
